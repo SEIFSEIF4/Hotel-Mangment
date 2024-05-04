@@ -41,4 +41,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Open a pull request.
 
 
-Thank you for using the Hotel Management System! We hope it helps streamline your hotel operations.
+
+Thank you for taking the time to explore this Hotel Management System! and I hope you find it valuable and that it meets your expectations for efficiently managing hotel operations.
