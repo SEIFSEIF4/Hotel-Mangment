@@ -6,7 +6,7 @@ import { Flag } from "../../ui/Flag";
 import Button from "../../ui/Button";
 import CheckoutButton from "./CheckoutButton";
 import { guests } from "../../data/data-guests";
-import { staticActivity } from "../../data/data-activity";
+import { demoActivity } from "../../data/data-activity";
 
 const StyledTodayItem = styled.li`
   display: grid;
@@ -29,7 +29,7 @@ const Guest = styled.div`
 
 function TodayItem({ activity }) {
   // const { id, status, guests, numNights } = activity;
-  const { id, status, numNights } = staticActivity;
+  const { id, status, numNights } = demoActivity;
 
   return (
     <StyledTodayItem>

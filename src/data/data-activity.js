@@ -1,4 +1,4 @@
-export const activity = [
+export const demoActivity = [
   {
     id: 2001,
     status: "confirmed",
